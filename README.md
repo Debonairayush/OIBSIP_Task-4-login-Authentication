@@ -1,4 +1,4 @@
-My FOurth task as an Intern of Web Development and Designing at Oasis Infobyte.
+My Fourth task as an Intern of Web Development and Designing at Oasis Infobyte.
 
 This is how it will look like :-
 
